@@ -14,7 +14,7 @@ CinemaTrack adalah aplikasi **watchlist film** berbasis Flutter yang memungkinka
 
 | Home Screen | Add/Edit Movie | Login/Register |
 |-------------|----------------|----------------|
-| ![Home](screenshots/home.png) | ![Add](screenshots/add.png) | ![Login](screenshots/login.png) |
+| ![Home](screenshots/home.jpg) | ![Add](screenshots/add.jpg) | ![Login](screenshots/login.jpg) |
 
 > *Tambahkan screenshot di folder `screenshots/` lalu sesuaikan link-nya di atas.*
 
