@@ -1,16 +1,32 @@
-# watchlist
+# 🎬 CinemaTrack
 
-A new Flutter project.
+CinemaTrack adalah aplikasi **watchlist film** berbasis Flutter yang memungkinkan pengguna untuk menyimpan, mengelola, dan melacak daftar film yang ingin mereka tonton. Aplikasi ini menggunakan **Firebase Authentication** untuk login/register, serta **Cloud Firestore** untuk menyimpan data setiap pengguna.
 
-## Getting Started
+## ✨ Fitur Utama
 
-This project is a starting point for a Flutter application.
+- 🔐 Login dan Register dengan Firebase Authentication
+- 📄 CRUD Watchlist (Create, Read, Update, Delete) untuk film
+- 📦 Data tersimpan per pengguna (private per akun) di Firestore
+- 🎨 UI bersih dan responsif dengan Material Design
+- ☁️ Terintegrasi penuh dengan Firebase
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Tampilan Aplikasi
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+| Home Screen | Add/Edit Movie | Login/Register |
+|-------------|----------------|----------------|
+| ![Home](screenshots/home.png) | ![Add](screenshots/add.png) | ![Login](screenshots/login.png) |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> *Tambahkan screenshot di folder `screenshots/` lalu sesuaikan link-nya di atas.*
+
+## 🛠️ Teknologi yang Digunakan
+
+- [Flutter](https://flutter.dev/)
+- [Firebase Authentication](https://firebase.google.com/docs/auth)
+- [Cloud Firestore](https://firebase.google.com/docs/firestore)
+
+## 🚀 Instalasi
+
+1. Clone repository:
+   ```bash
+   git clone https://github.com/USERNAME/CinemaTrack.git
+   cd CinemaTrack
