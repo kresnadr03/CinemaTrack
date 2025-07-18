@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "803533531502",
+    "project_id": "watchlistapp-fe686",
+    "storage_bucket": "watchlistapp-fe686.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803533531502:android:90efc2cbc7a787429ff97f",
+        "android_client_info": {
+          "package_name": "com.example.watchlist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxg_F4jnSElTkska4BBQzbgSDTs-jqVNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
